@@ -1,0 +1,5 @@
+# Sound Switcher Mod Localization
+
+# GUI
+soundswitcher.gui.audio_output_device=Audio Output Device：
+soundswitcher.gui.unknown_device=Unknown Device
