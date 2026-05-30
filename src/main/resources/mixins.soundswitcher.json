@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.4",
+  "package": "decok.dfcdvadstf.soundswitcher.mixin",
+  "refmap": "mixins.soundswitcher.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "GuiScreenOptionsSoundsMixin",
+    "SoundManagerMixin"
+  ]
+}
